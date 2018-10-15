@@ -1,0 +1,7 @@
+#Testing Title
+Trying to get R code to run and plot
+
+```{r}
+library(ggplot2)
+qplot(rnorm(100000))
+```
