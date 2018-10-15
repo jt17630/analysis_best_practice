@@ -1,4 +1,3 @@
 :sheep:
 :cow:
 :turtle:
-:firework:
