@@ -5,5 +5,6 @@ Trying to get R code to run and plot
 library(ggplot2)
 qplot(rnorm(100000))
 qplot(rnorm(100),rbinom(n = 100,size = 10,prob = 0.5),color="red")
+qplot(factor(cut),carat,data=diamonds,geom=c("boxplot"))
 ```
 
