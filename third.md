@@ -1,1 +1,3 @@
 :sheep:
+:cow:
+:turtle:
