@@ -2,3 +2,4 @@
 :cow:
 :turtle:
 :bear:
+:penguin:
